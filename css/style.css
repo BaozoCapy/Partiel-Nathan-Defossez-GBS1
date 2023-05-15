@@ -1,0 +1,56 @@
+h1 {
+    text-align: left;
+    align-items: center;
+}
+
+.intro {
+    text-align: left;
+    align-items: center;
+}
+
+.btnintro {
+    text-align: left;
+    align-items: center;
+}
+
+.bar {
+    text-align: center;
+    align-items: center;
+}
+
+.hello {
+    background-color: gray;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+h5 {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: oblique;
+}
+
+.autor {
+    font-weight: bold;
+    font-size: smaller;
+}
+
+.footer {
+    color: white;
+    font-size: smaller;
+    align-items: center;
+}
+
+a {
+    color: white;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
